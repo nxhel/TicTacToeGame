@@ -1,0 +1,14 @@
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\bin\Debug\net8.0\tictactoe.exe
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\bin\Debug\net8.0\tictactoe.deps.json
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\bin\Debug\net8.0\tictactoe.runtimeconfig.json
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\bin\Debug\net8.0\tictactoe.dll
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\bin\Debug\net8.0\tictactoe.pdb
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\tictactoe.AssemblyInfoInputs.cache
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\tictactoe.AssemblyInfo.cs
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\tictactoe.dll
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\refint\tictactoe.dll
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\tictactoe.pdb
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\tictactoe.genruntimeconfig.cache
+C:\Users\nxxhe\OneDrive\Desktop\CS\Winter2024\Csharp\tictactoe\obj\Debug\net8.0\ref\tictactoe.dll
