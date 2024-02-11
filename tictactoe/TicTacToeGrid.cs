@@ -305,7 +305,6 @@ namespace TicTacToe
                 }
                 if (!isTie)
                 {
-                    Console.WriteLine("!Tie");
                     break;
                 }
             }

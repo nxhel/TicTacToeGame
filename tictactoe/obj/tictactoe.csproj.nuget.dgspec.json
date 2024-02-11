@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nxxhe\\OneDrive\\Desktop\\CS\\Winter2024\\Csharp\\tictactoe\\tictactoe.csproj": {}
+    "C:\\Users\\nxxhe\\OneDrive\\Documents\\GitHub\\TicTacToeGame\\tictactoe\\tictactoe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nxxhe\\OneDrive\\Desktop\\CS\\Winter2024\\Csharp\\tictactoe\\tictactoe.csproj": {
+    "C:\\Users\\nxxhe\\OneDrive\\Documents\\GitHub\\TicTacToeGame\\tictactoe\\tictactoe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nxxhe\\OneDrive\\Desktop\\CS\\Winter2024\\Csharp\\tictactoe\\tictactoe.csproj",
+        "projectUniqueName": "C:\\Users\\nxxhe\\OneDrive\\Documents\\GitHub\\TicTacToeGame\\tictactoe\\tictactoe.csproj",
         "projectName": "tictactoe",
-        "projectPath": "C:\\Users\\nxxhe\\OneDrive\\Desktop\\CS\\Winter2024\\Csharp\\tictactoe\\tictactoe.csproj",
+        "projectPath": "C:\\Users\\nxxhe\\OneDrive\\Documents\\GitHub\\TicTacToeGame\\tictactoe\\tictactoe.csproj",
         "packagesPath": "C:\\Users\\nxxhe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nxxhe\\OneDrive\\Desktop\\CS\\Winter2024\\Csharp\\tictactoe\\obj\\",
+        "outputPath": "C:\\Users\\nxxhe\\OneDrive\\Documents\\GitHub\\TicTacToeGame\\tictactoe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nxxhe\\AppData\\Roaming\\NuGet\\NuGet.Config"
